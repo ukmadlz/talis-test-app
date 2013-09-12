@@ -1,0 +1,60 @@
+<div ng-controller="IndexCtrl" >
+
+	<h1>Look up lists dependant on modules</h1>
+
+	<form class="form-horizontal" ng-submit="searchModule()" name="search-form">
+
+		<fieldset class="control-group">
+
+			<label for="institute" class="control-label" >Select Institute</label>
+			<div class="controls" >
+				<select name="institute" id="institute" class="input-large" >
+					<option ng-repeat="institute in institutes" value="{{institute.value}}" ng-model="search.institute" >
+						{{institute.name}}
+					</option>
+				</select>
+			</div>
+
+		</fieldset>
+
+		<fieldset class="control-group">
+
+			<label for="module_code" class="control-label" >Module</label>
+			<div class="controls" >
+				<input name="module_code" id="module_code" placeholder="Module Code" class="input-large" ng-model="search.module_code" />
+				<span class="help-block">Provide a valid module code for the institute</span>
+			</div>
+
+		</fieldset>
+
+		<fieldset class="control-group">
+
+			<div class="controls">
+
+				<button type="submit" class="btn"><i class="icon-search"></i> Search</button>
+
+			</div>
+
+		</fieldset>
+
+	</form>
+
+	<p ng-show="lists.length == 0">No lists for modules</p>
+	<h2 ng-show="lists.length >= 1">{{module_code}}: {{module_name}}</h2>
+	<p ng-show="lists.length >= 1">{{module_description}}</p>
+	<table ng-show="lists.length >= 1" class="table table-hover">
+		<thead>
+			<th>Title</th>
+			<th>Academic Year</th>
+			<th>Last Updated</th>
+		</thead>
+		<tbody class="">
+			<tr ng-repeat="list in lists" >
+				<td>{{list.title}}</td>
+				<td>{{list.year}}</td>
+				<td>{{list.last_update}}</td>
+			</tr>
+		</tbody>
+	</table>
+
+</div>
