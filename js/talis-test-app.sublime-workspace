@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"list-",
+				"list-style-image"
+			],
+			[
+				"request_",
+				"request_variables"
+			],
+			[
+				"reques",
+				"request_variables"
+			],
+			[
+				"constan",
+				"constants_path"
+			],
+			[
+				"_",
+				"_allowed_characters  (variable)"
+			],
+			[
+				"mt_",
+				"mt_rand"
+			],
+			[
+				"is_in",
+				"is_integer"
+			],
+			[
+				"is_int",
+				"is_integer  (function)"
+			],
+			[
+				"en",
+				"encryptPassword"
+			],
+			[
+				"is_s",
+				"is_string  (function)"
+			],
+			[
+				"controll",
+				"controller"
+			],
+			[
+				"A",
+				"APPLICATION_PATH"
+			],
+			[
+				"APPL",
+				"APPLICATION_ENV"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"consue",
+				"consumerAccess"
+			],
+			[
+				"expert",
+				"expert_data"
+			],
+			[
+				"feature",
+				"featured"
+			],
+			[
+				"News",
+				"NewsController"
+			],
+			[
+				"fetch",
+				"fetchRow"
+			],
+			[
+				"func_g",
+				"func_get_args"
+			],
+			[
+				"navi",
+				"navigation"
+			],
+			[
+				"naviation",
+				"navigation_array"
+			],
+			[
+				"stor",
+				"story_id"
+			],
+			[
+				"fetchAll",
+				"fetchAll"
+			],
+			[
+				"Application_",
+				"Application_Model_Stories  (class)"
+			],
+			[
+				"story_",
+				"story_slug"
+			],
+			[
+				"down",
+				"download_block"
+			],
+			[
+				"event",
+				"events_block"
+			],
+			[
+				"events",
+				"events_block"
+			],
+			[
+				"news",
+				"news_block"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"hashTags",
+				"hashTags"
+			],
+			[
+				"refer",
+				"referenceAccounts"
+			],
+			[
+				"APPLI",
+				"APPLICATION_PATH"
+			],
+			[
+				"List",
+				"list"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"select",
+				"select"
+			],
+			[
+				"arap",
+				"arap"
+			],
+			[
+				"sgwse",
+				"sgwse"
+			],
+			[
+				"content_",
+				"content_class"
+			],
+			[
+				"attem",
+				"attempt_login"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"text",
+				"ifx_textasvarchar"
+			],
+			[
+				"realpat",
+				"realpath"
+			],
+			[
+				"content",
+				"content_title"
+			],
+			[
+				"resource",
+				"resource_id"
+			],
+			[
+				"business",
+				"business_type"
+			],
+			[
+				"reso",
+				"resource_id"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"func",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 719.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/talis-test-app/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/talis-test-app/partials/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/talis-test-app/js/controllers.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/talis-test-app/js/talis-test-app.sublime-workspace",
+		"/Applications/XAMPP/xamppfiles/htdocs/talis-test-app/Procfile",
+		"/Applications/XAMPP/xamppfiles/htdocs/talis-test-app/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/composer.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/data/oauth.sqlite",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/data/rebuild_db.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/src/Demo/Curl.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/src/Demo/DemoControllerProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/src/LockdIn/ApiControllerProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/analytics.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/api/authorize.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/api/base.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/api/header.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/demo/base.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/demo/denied.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/demo/error.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/demo/granted.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/views/demo/index.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/web/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/web/css/lockdin.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/web/css/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/web/css/master.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/web/css/solarized_light.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/public/web/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/winning-moves-benchmarkindex/nbproject/private/private.properties",
+		"/Applications/XAMPP/xamppfiles/htdocs/winning-moves-benchmarkindex/nbproject/project.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/winning-moves-benchmarkindex/nbproject/project.properties",
+		"/Users/mikee/Desktop/logo-text.html",
+		"/Users/mikee/MyAmenityLogbook.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/views/scripts/user/dashboard.phtml",
+		"/Applications/Zend/library/Zend/Mail/Transport/Abstract.php",
+		"/Applications/Zend/library/Zend/Mail/Transport/Smtp.php",
+		"/Users/mikee/Desktop/export.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/forms/Signup.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/benchmark-index-frontend/templates/public/public_news.tpl",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/forms/Signup.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/readme.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/elsmore-homepage/public/assets/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/elsmore-homepage/public/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/views/scripts/user/signup.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/controllers/UserController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/layouts/scripts/frontsales.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/forms/Login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/library/Elsmore/Password.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/library/Password.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/Library/Password.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/public/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/Bootstrap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/configs/application.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/zend-blank/application/models/CrudModel.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/configs/application.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/modules/api/Bootstrap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/public/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/modules/api/controllers/IndexController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/modules/api/views/scripts/index/index.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/Bootstrap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/views/scripts/index/index.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/layouts/scripts/frontsales.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/controllers/IndexController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/controllers/BaseController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/layouts/scripts/main.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/twitter/application/modules/api/views/scripts/index/index.html",
+		"/Users/mikee/Documents/android/MyAmenityLogbook/assets/www/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/nace2/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/library/OAuth/Server/Server.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/library/OAuth/Server/Storage/StorageInterface.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wedding/public/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wedding/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/library/OAuth/Server/Request/Access.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/library/OAuth/Server/Config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oauth/library/OAuth/Server/AccessInformation.php",
+		"/Users/mikee/Downloads/phpconundrum/email_gd.php",
+		"/Users/mikee/Downloads/phpconundrum/automail.php",
+		"/Users/mikee/Downloads/phpconundrum/franchise_gd.php",
+		"/Users/mikee/Downloads/phpconundrum/franchise_gd.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/trunk/tests/Zend/ImageTest.php",
+		"/var/folders/m4/d2d4k1yd00z3_xn7grnd9b0c0000gp/T/sublime-svn-1350046575/SVN",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/StoriesController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/library/view.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/models/Library.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/public/assets/less/core-style.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/models/News.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/news/view.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/layouts/scripts/stories-layout.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/configs/system/2.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/helpers/Author.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/events/view.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/models/Stories.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/NewsController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/models/Events.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/EventsController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/forms/Searchbar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/helpers/StoryHelper.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/LibraryController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/Bootstrap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/CoursesController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/BusinessSupportController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/ExpertsController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/IndexController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/library/twitter/TwitterSearch.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/helpers/SidebarBlock.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/models/Adverts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/experts/index.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/helpers/DisplaySitemap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/models/Experts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/experts/view.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/library/index.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/public/assets/js/application.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/configs/system/system-default.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/index/index.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/forms/HeaderLoginForm.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/index/sitemap.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/.zfproject.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/plugins/RouteControl.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/plugins/Layout.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/news/index.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/public/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/scripts/opinion/view.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/views/helpers/Disqus.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/public/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/controllers/OpinionController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/configs/application.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/repo_WM0262/trunk/application/configs/system/-2.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/portal_export/public/assets/less/core-style.less"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/oauth",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" - ",
+			"\n",
+			"(GBP K)",
+			" - ",
+			"zend-blank",
+			"nonce",
+			"->nonce",
+			"nonce",
+			"Could not retrieve",
+			"Could not retrieve a valid Token response from Token URL",
+			" Could not retrieve a valid Token response from Token URL",
+			"isValidRequest",
+			"Could not retrieve a valid Token response from Token URL",
+			"isValidRequest",
+			"consumerAccess",
+			"replay",
+			"[\\ ]+",
+			"[\\t]+",
+			"\\n",
+			"\\r",
+			"\\n",
+			"item_type",
+			"text-transform",
+			"username",
+			"advert",
+			"type_name",
+			"scatter",
+			"limit",
+			"').",
+			");\n",
+			"sidebar",
+			"area",
+			"greyDarkColor",
+			"			->",
+			"$db"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"' => '",
+			"','\n",
+			"\n",
+			"','",
+			"",
+			"' => '",
+			" ",
+			"",
+			"greyColorDark"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/mikee/Documents/cloud.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
