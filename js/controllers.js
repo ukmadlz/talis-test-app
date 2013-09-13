@@ -53,6 +53,7 @@ application.controller('IndexCtrl',function IndexCtrl ($scope, $http){
 
 				lists.push({
 					title: data[objectValue['value']]['http://rdfs.org/sioc/spec/name'][0]['value'],
+					link: data[objectValue['value']],
 					year: data[data[objectValue['value']]['http://lists.talis.com/schema/temp#hasTimePeriod'][0]['value']]['http://purl.org/dc/terms/title'][0]['value'],
 					last_update: prettyDate(data[objectValue['value']]['http://purl.org/vocab/resourcelist/schema#lastUpdated'][0]['value'].substring(0,19)+'Z')
 				});
