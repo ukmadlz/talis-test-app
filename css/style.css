@@ -2,6 +2,10 @@
       /* Sticky footer styles
       -------------------------------------------------- */
 
+      #push {
+        height: 60px;
+      }
+
       /* Set the fixed height of the footer here */
       #footer {
          position:fixed;
